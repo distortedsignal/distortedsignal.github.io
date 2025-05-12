@@ -1,5 +1,5 @@
-theme: pages-themes/dinky@v0.2.0
+title: distortedsignal - This Time, It's Personal
+description: Ramblings, coherent and otherwise.
+remote_theme: pages-themes/dinky@v0.2.0
 plugins:
 - jekyll-remote-theme
-title: distortedsignal - This Time, It's Personal
-description: Bookmark this to keep an eye on my project updates!
