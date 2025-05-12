@@ -32,6 +32,6 @@ Examining the earlier examples, we can see that checking a phone while in a conv
 
 I think the dating example is the most interesting example provided above. If someone does not want to commit to a dating relationship, it could be because they are worried that a better option may come along. This would be someone whose dating experience is negatively impacted by _FOBO_. There could also be a person who commits to a relationship very quickly, neglecting to get to know their partner, because they believe that this person is the best opportunity they will have at relational happiness. This person can be said to be suffering from _FOLO_. I think this demonstrates the dichotomy between the two quite cleanly - if an action is provoked, the person is probably concerned about _Losing an Opportunity_, whereas if action is _prevented_, the person probably desires _Better Options_.
 
-[^1]: https://www.gardencity.life/sermons?sapurl=Lys2OGQ2L3Nlcm1vbnMvbWkvK2RwdmRwajU/YnJhbmRpbmc9dHJ1ZSZlbWJlZD10cnVlJnJlY2VudFJvdXRlPWFwcC53ZWItYXBwLmxpYnJhcnkubGlzdCZyZWNlbnRSb3V0ZVNsdWc9JTJCZzRxbmRkag==
+[^1]: [FOBO: Fear of a Better Option](https://www.gardencity.life/sermons?sapurl=Lys2OGQ2L3Nlcm1vbnMvbWkvK2RwdmRwajU/YnJhbmRpbmc9dHJ1ZSZlbWJlZD10cnVlJnJlY2VudFJvdXRlPWFwcC53ZWItYXBwLmxpYnJhcnkubGlzdCZyZWNlbnRSb3V0ZVNsdWc9JTJCZzRxbmRkag==)
 
-[^2]: https://www.sciencedirect.com/science/article/abs/pii/S0747563213000800
+[^2]: [Motivational, emotional, and behavioral correlates of fear of missing out](https://www.sciencedirect.com/science/article/abs/pii/S0747563213000800)
