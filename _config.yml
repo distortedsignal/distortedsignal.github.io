@@ -6,4 +6,4 @@ plugins:
 - jekyll-remote-theme
 
 github:
-  is_user_page: True
+  is-user-page: True
