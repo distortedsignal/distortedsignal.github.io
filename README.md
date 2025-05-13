@@ -1,4 +1,4 @@
-# Distortedsignal's Hyperblag
+# distortedsignal's Hyperblag
 
 ## [FOMO, FOBO, FOLO, and Other Fears](https://distortedsignal.github.io/ramblings/FOMO.html)
 
